@@ -120,7 +120,6 @@ Great. Now it's time to calculate some summary statistics! Calculate the total n
 ```{r}
 
 example_df <- bookings_df %>%
-  drop_na() %>% 
   summarize(number_canceled = sum(is_canceled), 
             average_lead_time = mean(lead_time))
 
