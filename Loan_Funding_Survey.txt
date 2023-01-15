@@ -1,0 +1,38 @@
+ON LOAN
+
+Did you receive any scholarship for your study?
+If yes - How much did you receive?
+How much is your school fee for the first semester?
+How much is your school fee for the second semester?
+How much is your estimated spending less the school fees for the first semeter?
+How much is your estimated spending less the school fees for the second semeter?
+Did you take any loan?
+What type of loan did you take?
+How much loan did you take (Leave blank if Nil)?
+Do you still intend to take more loans for your study? (Yes, No, Unsure)
+If you chose private loan, what company did you take the loan from and how much? (List them in this mannaer eg. xyz - 4500, abc - 38000)
+Prior to taking this loan, did you hear about any other loan companies?
+If Yes - list the loan companies you heard of.
+What factors did you consider before choosing this loan company?
+If you are to take another loan, which loan company will you take from?
+Why did you choose this company?
+
+
+
+ON STUDENT DROP OUT (International Students as Case Study)
+Is there dataset on this?
+What is the average drop out in a Semester?
+Which of the Semesters does AU experience more dropout?
+Does the dropout impact the school in any way financially.
+Is there data for why student drop out?
+Do student seek counsel before dropping out?
+How many of those that dropped out per semester are on Scholarship?
+What was their performance in class before dropping out?
+What was the average remark about the classes they took during the time they took it?
+
+
+ON FILE STRUCTURING
+
+https://speakerdeck.com/jennybc/how-to-name-files?slide=15
+
+https://libguides.princeton.edu/c.php?g=102546&p=930626#:~:text=File%20naming%20best%20practices%3A&text=File%20names%20should%20be%20short,date%20format%20ISO%208601%3A%20YYYYMMDD

@@ -53,7 +53,7 @@ library(ggplot2)
 If you haven't installed and loaded tidyverse in this RStudio session, you can run the code chunk below. This may take a few minutes!
 
 ```{r install and download tidyverse}
-install.packages('tidyverse')
+# install.packages('tidyverse')
 library(tidyverse)
 ```
 
